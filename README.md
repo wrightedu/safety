@@ -5,8 +5,8 @@ Presented by Officer Dan Doherty
 * Naloxone (NARCAN)
 * DPS - Department of Public Safety
  * CLERY / Wright State Alert
- * Run Hide Fight
- * [Campus resources](https://www.wright.edu/title-ix-gender-based-violence/dayton-campus-resources)
+* Run Hide Fight
+* [Campus resources](https://www.wright.edu/title-ix-gender-based-violence/dayton-campus-resources)
 
 
 ---
@@ -69,5 +69,27 @@ Wright State Alert / WSU Emergency Notification System
   * This is true even when the university is closed
   * Allyn Hall is always unlocked for safety reasons
 
+---
 
+## Run / Hide / Fight
+
+In that order.  Know all escapes from building.  Have a plan a, b, and c to escape, hide, improvise a weapon.
+
+Know what to do when help arrives.  
+
+* Follow police instructions
+* Keep hands up and visible while exiting the building
+* Observe, Orient, Decide, Act
+
+---
+
+## QPR - Question, Persuade, Refer
+
+Not counseling or treatment.  Intended to offer hope through positive action.
+
+Many myths and facts around suicide.
+
+List of resources.
+
+Provide hope.  Need a better collection of services and numbers / protocols...
 
